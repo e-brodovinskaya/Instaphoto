@@ -11,24 +11,6 @@ background-size: cover;
 background-image: url(image_path("background.jpg"));
 }
 
-$text-color: blue;
-
-.title {
-	color: $text-color;
-}
-
-.introduction{
-	color: $text-color;
-}
-
-.main_purt{
-	color: $text-color;
-}
-
-.conclusion{
-	color: $text-color;
-}
-
 .jumbotron-landing{
 width:50%;
 margin-left:auto;
